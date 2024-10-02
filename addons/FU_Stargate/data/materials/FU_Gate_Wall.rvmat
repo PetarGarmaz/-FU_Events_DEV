@@ -1,0 +1,7 @@
+PixelShaderID = "NormalMap";
+VertexShaderID = "NormalMap";
+
+class Stage1 {
+	texture="FU_Events\data\sg\textures\FU_Gate_Wall_N.paa";
+	uvSource="tex";
+};
